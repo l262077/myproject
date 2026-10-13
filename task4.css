@@ -1,0 +1,60 @@
+body{
+background-image:url("background.png");
+font-family:serif;
+}
+#main{
+width:700px;
+background-color: white;
+border:10px;
+margin:20px;
+padding:10px;
+}
+#header{
+background-color:paleturquoise;
+color:darkcyan;
+text-align:right;
+border:30px;
+padding:30px
+margin:20px;
+}
+
+#friends{
+width:120px;
+float:left;
+background-color:turquoise;
+border:5px solid darkcyan;
+padding:10px;
+margin-right:10px;
+}
+#friends h2{
+color:darkcyan;
+}
+#friends ul{
+padding-left:20px;
+font-size:14px;
+color:lightcoral;
+}
+.para{
+background-color:lightcyan;
+border:5px solid lightblue;
+padding:5px;
+margin-bottom:10px;
+margin-left:150px;
+}
+
+.para h2{
+color:turquoise;
+}
+
+.para p{
+color:lightcoral;
+font-size:14ppx;
+}
+
+.para img{
+width:200px;
+float: right;
+height:140;
+margin-left:10px;
+
+}
